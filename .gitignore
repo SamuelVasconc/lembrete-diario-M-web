@@ -1,0 +1,14 @@
+logs
+*.log
+npm-debug.log*
+.DS_Store
+node_modules
+jspm_packages
+.npm
+.node_repl_history
+public/bundle.js
+.next/
+.now/
+
+.vercel
+.idea
