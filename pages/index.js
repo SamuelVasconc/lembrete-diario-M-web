@@ -1,9 +1,6 @@
 import React from 'react'
 import Head from 'next/head'
-import {
-  getRandom,
-  dayHelper
-} from '../helpers/constans'
+import { getRandom, dayHelper } from '../helpers/constans'
 import Time from '../helpers/time'
 import Widget from '../component/widget'
 import Footer from '../component/footer'
@@ -50,9 +47,7 @@ class Page extends React.Component {
           <title>Lembrete Diário para Maíra</title>
         </Head>
         <div
-          className={`wrapper ${
-            true && 'its-friday'
-          }`}
+          className={`wrapper ${true && 'its-friday'}`}
         >
           <Widget
             initialReason={this.props.initialReason}
