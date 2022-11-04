@@ -34,7 +34,9 @@ export const REASONS_TO_DEPLOY = [
   'Maíra, eu te amo com todas as minhas forças',
   'Eu sempre vou estar aqui por você',
   '🎾?',
-  'Ainda te amo'
+  'Ainda te amo',
+  'Até que ta sendo divertido programar isso aqui',
+  'Voce é tudo pra mim'
 ]
 
 export const REASONS_TO_NOT_DEPLOY = [
