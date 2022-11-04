@@ -46,9 +46,7 @@ class Page extends React.Component {
         <Head>
           <title>Lembrete Diário para Maíra</title>
         </Head>
-        <div
-          className={`wrapper ${true && 'its-friday'}`}
-        >
+        <div className={`wrapper ${true && 'its-friday'}`}>
           <Widget
             initialReason={this.props.initialReason}
             now={this.state.now}
