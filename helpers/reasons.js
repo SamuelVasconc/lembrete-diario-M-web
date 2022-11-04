@@ -31,7 +31,10 @@ export const REASONS_TO_DEPLOY = [
   'S+M 4ever',
   'Ainda estou com saudades',
   'Ainda estou pensando em você agora',
-  'Maíra, eu te amo com todas as minhas forças'
+  'Maíra, eu te amo com todas as minhas forças',
+  'Eu sempre vou estar aqui por você',
+  '🎾?',
+  'Ainda te amo'
 ]
 
 export const REASONS_TO_NOT_DEPLOY = [
@@ -41,7 +44,8 @@ export const REASONS_TO_NOT_DEPLOY = [
   'Estou ansioso pra te ver',
   'Me avisa quando estiver indo',
   "Se estiver calor eu vou te levar sorvete 🍦",
-  'Oh Oh Oh Oh \n I got a love that keeps me waiting'
+  'Oh Oh Oh Oh \n I got a love that keeps me waiting',
+  'Eu te amooooooooo'
 ]
 
 export const REASONS_FOR_FRIDAY_AFTERNOON = [
@@ -50,7 +54,8 @@ export const REASONS_FOR_FRIDAY_AFTERNOON = [
   'Ei, Ei, já chegou xuxu?',
   'Eu acho que você bem que podia me ver hoje né',
   'Eu quero ser o primeiro a te ver',
-  'Chegou bem meu docinho?'
+  'Chegou bem meu docinho?',
+  'Eu te amo'
 ]
 
 export const REASONS_FOR_28TH = [
@@ -71,6 +76,7 @@ export const REASONS_FOR_AFTERNOON = [
 ]
 
 export const REASONS_FOR_WEEKEND = [
+  ...REASONS_TO_DEPLOY,
   'é fim de semana, era pra você estar comigo agora',
   'a gente vai se ver hoje?',
   'por que você ta aqui e não comigo? 😡',
