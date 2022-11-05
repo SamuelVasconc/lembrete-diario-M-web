@@ -39,7 +39,8 @@ export const REASONS_TO_DEPLOY = [
   'Você é tudo pra mim',
   'I Could Die For You',
   'Take on me',
-  'Essa é uma mensagem do Samuel do futuro: Eu te amo'
+  'Essa é uma mensagem do Samuel do futuro: Eu te amo',
+  'f(x)=x^{(2/3)}+0.85*(4-x^{2})^{(1/2)}/sin(a/pi*x)'
 ]
 
 export const REASONS_TO_NOT_DEPLOY = [
