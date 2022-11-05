@@ -36,7 +36,10 @@ export const REASONS_TO_DEPLOY = [
   '🎾?',
   'Ainda te amo',
   'Até que ta sendo divertido programar isso aqui',
-  'Voce é tudo pra mim'
+  'Você é tudo pra mim',
+  'I Could Die For You',
+  'Take on me',
+  'Essa é uma mensagem do Samuel do futuro: Eu te amo'
 ]
 
 export const REASONS_TO_NOT_DEPLOY = [
@@ -52,12 +55,13 @@ export const REASONS_TO_NOT_DEPLOY = [
 
 export const REASONS_FOR_FRIDAY_AFTERNOON = [
   'Sextaaaaaaaaaaaaaaa',
-  'Já é sexta a tarde, sera que você ja chegou?',
+  'Já é sexta, sera que você ja chegou?',
   'Ei, Ei, já chegou xuxu?',
   'Eu acho que você bem que podia me ver hoje né',
   'Eu quero ser o primeiro a te ver',
   'Chegou bem meu docinho?',
-  'Eu te amo'
+  'Eu te amo',
+  'Dont take me tongue tied'
 ]
 
 export const REASONS_FOR_28TH = [
@@ -74,7 +78,8 @@ export const REASONS_FOR_AFTERNOON = [
   'Que tal voltar amanhã?',
   'Eu te amo mais do que o sol ama a lua',
   'Você devia casar comigo',
-  'Soninho?'
+  'Soninho?',
+  'Dream a little dream of me'
 ]
 
 export const REASONS_FOR_WEEKEND = [
@@ -84,11 +89,12 @@ export const REASONS_FOR_WEEKEND = [
   'por que você ta aqui e não comigo? 😡',
   'eu vou te encher de beijinhos',
   'vem me veeeeeer',
-  'estou contando os segundos pra te ver'
+  'estou contando os segundos pra te ver',
+  'Triste saber que você tem que ir embora'
 ]
 
 export const REASONS_FOR_DAY_BEFORE_CHRISTMAS = [
-  'é natal 🧑‍🎄 é natal',
+  'é natal 🎄 é natal',
   '🎶🎵 Last Christmas I gave you my heart 🎵🎶',
   '🎄 Ja te entreguei seu presente? 🎄 ',
   'Dingo Bell Dingo Bell',
