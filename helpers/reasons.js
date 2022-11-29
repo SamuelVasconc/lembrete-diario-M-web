@@ -48,7 +48,7 @@ export const REASONS_TO_DEPLOY = [
   'Esta livre para jantar hoje a noite? Então é um encontro',
   '01100101 01110101 00100000 01110100 01100101 00100000 01100001 01101101 01101111',
   '. ..- / - . / .- -- ---',
-  'Você acaba de ganhar um beijo! Printe esta tela, envie para o criador do site e retire já o seu beijo!'
+  'Você acaba de ganhar um beijo! Printe esta tela, envie para o criador do site e retire já o seu beijo! obs: Valido somente para Maíra'
 ]
 
 export const REASONS_TO_NOT_DEPLOY = [
