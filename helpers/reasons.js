@@ -44,7 +44,11 @@ export const REASONS_TO_DEPLOY = [
   'Eu vou estar aqui independente do que estiver acontecendo',
   'Its aways nice to see you oh oh oh',
   'Lebenslangerschicksalsschatz',
-  'Ainda estou aqui, por você'
+  'Ainda estou aqui, por você',
+  'Esta livre para jantar hoje a noite? Então é um encontro',
+  '01100101 01110101 00100000 01110100 01100101 00100000 01100001 01101101 01101111',
+  '. ..- / - . / .- -- ---',
+  'Você acaba de ganhar um beijo! Printe esta tela, envie para o criador do site e retire já o seu beijo!'
 ]
 
 export const REASONS_TO_NOT_DEPLOY = [
