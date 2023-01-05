@@ -51,7 +51,8 @@ export const REASONS_TO_DEPLOY = [
   'Você acaba de ganhar um beijo! Printe esta tela, envie para o criador do site e retire já o seu beijo! obs: valido somente para Maíra',
   'I was made for loving you baby',
   'I can change',
-  'Vai dar tudo certo'
+  'Vai dar tudo certo',
+  'Sinto sua falta, realmente sinto'
 ]
 
 export const REASONS_TO_NOT_DEPLOY = [
