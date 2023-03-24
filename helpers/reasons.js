@@ -1,6 +1,6 @@
 export const REASONS_TO_DEPLOY = [
   "Eu te amo Sabiá",
-  "Você é incrivel!",
+  "VOCÊ É INCRIVEL!",
   'Sim, eu sou o homem mais sortudo do mundo',
   'Eu ainda te amo',
   'Quer casar comigo?',
@@ -38,7 +38,7 @@ export const REASONS_TO_DEPLOY = [
   'Até que ta sendo divertido programar isso aqui',
   'Você é tudo pra mim',
   'I Could Die For You',
-  'Take on me',
+  'TAKE ON ME',
   'Essa é uma mensagem do Samuel do futuro: Eu te amo',
   'f(x)=x^{(2/3)}+0.85*(4-x^{2})^{(1/2)}/sin(a/pi*x)',
   'Eu vou estar aqui independente do que estiver acontecendo',
@@ -54,7 +54,7 @@ export const REASONS_TO_DEPLOY = [
   'Vai dar tudo certo',
   'Sinto sua falta, realmente sinto',
   'Aposto que a sua aula ta muito chata',
-  'Stay with meeeeee',
+  'STAY WITH MEEEEE',
   '1/10: essa mensa',
   '2/10: gem esta divi',
   '3/10: dida em partes,',
@@ -69,7 +69,11 @@ export const REASONS_TO_DEPLOY = [
   'oi cocote',
   'D D6 D7M D6',
   'Seu beijo é como a Arabesque No.1',
-  'Você é a única que vale a pena ver, O único lugar em que vale a pena estar'
+  'Você é a única que vale a pena ver, O único lugar em que vale a pena estar',
+  'Você me prometeu uma vitamina de abacate..',
+  'Yakisobinha?',
+  'oilaa',
+  'Que falta vocẽ faz'
 ]
 
 export const REASONS_TO_NOT_DEPLOY = [
