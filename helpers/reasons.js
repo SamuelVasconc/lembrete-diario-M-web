@@ -68,7 +68,8 @@ export const REASONS_TO_DEPLOY = [
   'luvinha de ❤️❤️❤️❤️',
   'oi cocote',
   'D D6 D7M D6',
-  'Seu beijo é como a Arabesque No.1'
+  'Seu beijo é como a Arabesque No.1',
+  'Você é a única que vale a pena ver, O único lugar em que vale a pena estar'
 ]
 
 export const REASONS_TO_NOT_DEPLOY = [
