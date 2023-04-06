@@ -73,7 +73,9 @@ export const REASONS_TO_DEPLOY = [
   'Você me prometeu uma vitamina de abacate..',
   'Yakisobinha?',
   'oilaa',
-  'Que falta vocẽ faz'
+  'Que falta vocẽ faz',
+  'Estou indo ai te ver',
+  'Would you let me touch your soul, forever?'
 ]
 
 export const REASONS_TO_NOT_DEPLOY = [
