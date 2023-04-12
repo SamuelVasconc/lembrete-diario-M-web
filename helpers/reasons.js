@@ -55,16 +55,6 @@ export const REASONS_TO_DEPLOY = [
   'Sinto sua falta, realmente sinto',
   'Aposto que a sua aula ta muito chata',
   'STAY WITH MEEEEE',
-  '1/10: essa mensa',
-  '2/10: gem esta divi',
-  '3/10: dida em partes,',
-  '4/10: que cu',
-  '5/10: rioso, acho',
-  '6/10: que estou perd',
-  '7/10: endo a criat',
-  '8/10: ividade, d',
-  '9/10: e qualquer for',
-  '10/10: ma, eu te amo',
   'luvinha de ❤️❤️❤️❤️',
   'oi cocote',
   'D D6 D7M D6',
@@ -75,7 +65,9 @@ export const REASONS_TO_DEPLOY = [
   'oilaa',
   'Que falta vocẽ faz',
   'Estou indo ai te ver',
-  'Would you let me touch your soul, forever?'
+  'Would you let me touch your soul, forever?',
+  'Não fique triste..Eu estou aqui',
+  'To com abstinencia de você'
 ]
 
 export const REASONS_TO_NOT_DEPLOY = [
