@@ -67,7 +67,9 @@ export const REASONS_TO_DEPLOY = [
   'Estou indo ai te ver',
   'Would you let me touch your soul, forever?',
   'Não fique triste..Eu estou aqui',
-  'To com abstinencia de você'
+  'To com abstinencia de você',
+  'Eternamente seu',
+  'Aqui embaixo 😺🚽'
 ]
 
 export const REASONS_TO_NOT_DEPLOY = [
