@@ -55,7 +55,6 @@ export const REASONS_TO_DEPLOY = [
   'Sinto sua falta, realmente sinto',
   'Aposto que a sua aula ta muito chata',
   'STAY WITH MEEEEE',
-  'luvinha de ❤️❤️❤️❤️',
   'oi cocote',
   'D D6 D7M D6',
   'Seu beijo é como a Arabesque No.1',
@@ -69,7 +68,11 @@ export const REASONS_TO_DEPLOY = [
   'Não fique triste..Eu estou aqui',
   'To com abstinencia de você',
   'Eternamente seu',
-  'Aqui embaixo 😺🚽'
+  'Aqui embaixo 😺🚽',
+  'Into my arms, oh Lord',
+  'Usando todos os meus neurônios pra pensar em você',
+  'Aposto que esta cheia de provas e trabalhos. Um beijo! Agora volte a estudar',
+  'Rindo da saudade de você'
 ]
 
 export const REASONS_TO_NOT_DEPLOY = [
