@@ -72,7 +72,12 @@ export const REASONS_TO_DEPLOY = [
   'Into my arms, oh Lord',
   'Usando todos os meus neurônios pra pensar em você',
   'Aposto que esta cheia de provas e trabalhos. Um beijo! Agora volte a estudar',
-  'Rindo da saudade de você'
+  'Rindo da saudade de você',
+  'Aquele é o Chad Smith??',
+  'Guardando amor pra você',
+  'Poki?',
+  'A lovely day',
+  'Eu ainda to aqui, escrevendo mais razões pra amar você'
 ]
 
 export const REASONS_TO_NOT_DEPLOY = [
