@@ -78,7 +78,10 @@ export const REASONS_TO_DEPLOY = [
   'Poki?',
   'A lovely day',
   'Eu ainda to aqui, escrevendo mais razões pra amar você',
-  'TINHAMO'
+  'TINHAMO',
+  'Me beije antes de ir embora',
+  'Oi',
+  'Normar, tudo normar'
 ]
 
 export const REASONS_TO_NOT_DEPLOY = [
