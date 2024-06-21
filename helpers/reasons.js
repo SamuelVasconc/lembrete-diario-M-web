@@ -77,7 +77,8 @@ export const REASONS_TO_DEPLOY = [
   'Guardando amor pra você',
   'Poki?',
   'A lovely day',
-  'Eu ainda to aqui, escrevendo mais razões pra amar você'
+  'Eu ainda to aqui, escrevendo mais razões pra amar você',
+  'TINHAMO'
 ]
 
 export const REASONS_TO_NOT_DEPLOY = [
