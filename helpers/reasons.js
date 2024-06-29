@@ -81,7 +81,8 @@ export const REASONS_TO_DEPLOY = [
   'TINHAMO',
   'Me beije antes de ir embora',
   'Oi',
-  'Normar, tudo normar'
+  'Normar, tudo normar',
+  'Me apaixonar por você foi a coisa mais fácil que eu já fiz'
 ]
 
 export const REASONS_TO_NOT_DEPLOY = [
