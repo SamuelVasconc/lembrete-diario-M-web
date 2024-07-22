@@ -86,7 +86,7 @@ export const REASONS_TO_DEPLOY = [
 ]
 
 export const REASONS_TO_NOT_DEPLOY = [
-  //...REASONS_TO_DEPLOY,
+  ...REASONS_TO_DEPLOY,
   "É hoje! Estou te esperando.",
   "Bem que você podia deixar eu te buscar né",
   'Estou ansioso pra te ver',
