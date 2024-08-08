@@ -82,7 +82,8 @@ export const REASONS_TO_DEPLOY = [
   'Me beije antes de ir embora',
   'Oi',
   'Normar, tudo normar',
-  'Me apaixonar por você foi a coisa mais fácil que eu já fiz'
+  'Me apaixonar por você foi a coisa mais fácil que eu já fiz',
+  'Mamihlapinatapai'
 ]
 
 export const REASONS_TO_NOT_DEPLOY = [
