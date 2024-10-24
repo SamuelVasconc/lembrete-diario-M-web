@@ -83,7 +83,9 @@ export const REASONS_TO_DEPLOY = [
   'Oi',
   'Normar, tudo normar',
   'Me apaixonar por você foi a coisa mais fácil que eu já fiz',
-  'Mamihlapinatapai'
+  'Mamihlapinatapai',
+  'Eu sou a consequência inevitável de você',
+  'Cunhataiporã che rohayhu'
 ]
 
 export const REASONS_TO_NOT_DEPLOY = [
