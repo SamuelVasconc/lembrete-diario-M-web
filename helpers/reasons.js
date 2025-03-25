@@ -86,7 +86,8 @@ export const REASONS_TO_DEPLOY = [
   'Mamihlapinatapai',
   'Eu sou a consequência inevitável de você',
   'Cunhataiporã che rohayhu',
-  '9x - 7i > 3(3x - 7u)'
+  '9x - 7i > 3(3x - 7u)',
+  'Thank you for the love'
 ]
 
 export const REASONS_TO_NOT_DEPLOY = [
